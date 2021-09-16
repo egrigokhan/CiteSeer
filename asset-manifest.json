@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CiteSeer/static/css/main.38c51fd3.chunk.css",
+    "main.js": "/CiteSeer/static/js/main.51bcf59e.chunk.js",
+    "main.js.map": "/CiteSeer/static/js/main.51bcf59e.chunk.js.map",
+    "runtime-main.js": "/CiteSeer/static/js/runtime-main.d9fd92a6.js",
+    "runtime-main.js.map": "/CiteSeer/static/js/runtime-main.d9fd92a6.js.map",
+    "static/js/2.c7d65aff.chunk.js": "/CiteSeer/static/js/2.c7d65aff.chunk.js",
+    "static/js/2.c7d65aff.chunk.js.map": "/CiteSeer/static/js/2.c7d65aff.chunk.js.map",
+    "static/js/3.7be2525c.chunk.js": "/CiteSeer/static/js/3.7be2525c.chunk.js",
+    "static/js/3.7be2525c.chunk.js.map": "/CiteSeer/static/js/3.7be2525c.chunk.js.map",
+    "index.html": "/CiteSeer/index.html",
+    "static/css/main.38c51fd3.chunk.css.map": "/CiteSeer/static/css/main.38c51fd3.chunk.css.map",
+    "static/js/2.c7d65aff.chunk.js.LICENSE.txt": "/CiteSeer/static/js/2.c7d65aff.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/CiteSeer/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9fd92a6.js",
+    "static/js/2.c7d65aff.chunk.js",
+    "static/css/main.38c51fd3.chunk.css",
+    "static/js/main.51bcf59e.chunk.js"
+  ]
+}
